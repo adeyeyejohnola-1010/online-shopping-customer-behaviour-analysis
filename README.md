@@ -1,4 +1,5 @@
-online-shopping-customer-behaviour-analysis
+**online-shopping-customer-behaviour-analysis**
+
 An exploratory data analysis project focused on online shopping customer behaviour, purchasing patterns, sales performance and revenue insights using Excel
 
  **Introduction**
@@ -54,6 +55,7 @@ The difference is marginal ($13K), indicating no strong gender dominance in purc
 <img width="352" height="157" alt="4 2" src="https://github.com/user-attachments/assets/97d0af66-839e-474f-bfe6-2ebcbba8432a" />
 
 **Age Analysis**
+
 The core revenue drivers are ages 38–47, contributing the largest share.follow by ages 28-47,
 Spending declines slightly after age 47 and more significantly after 58.
 Younger customers (18–27) are active but spend less than middle-aged groups.
@@ -99,9 +101,17 @@ Expand Clothing & Sports:More product variety,Premium options
 3.Leveraging Behavioral Targeting
  we should Combine: Country + Category + Viewing behavior
 
-4. Improving Conversion Rate (High views but low purchases = lost revenue opportunity)
+4.Improving Conversion Rate (High views but low purchases = lost revenue opportunity)
 
+**Conclusion**
 
+From my analysis of the online shopping customer behaviour dataset, I gained insights into customer purchasing patterns, revenue distribution and product performance.
+
+The platform generated a total revenue of $1,401,306 from 8,292 items purchased, with an item purchase rate of 18.77%. Clothing emerged as the highest revenue-generating product category, while Pakistan recorded the highest revenue among the countries analysed.
+
+my analysis also revealed an almost equal distribution of male and female customers, showing that the platform attracts customers across both gender groups.
+
+Overall, my findings show that customer behaviour, product categories and geographical location provide useful insights into the platform's sales performance. my analysis also highlights opportunities to improve purchasing activities and increase revenue.
 
 
 
