@@ -1,4 +1,4 @@
-<img width="183" height="77" alt="image" src="https://github.com/user-attachments/assets/ebe13c18-a580-47b3-a530-c77c428ab4eb" /># online-shopping-customer-behaviour-analysis
+online-shopping-customer-behaviour-analysis
 An exploratory data analysis project focused on online shopping customer behaviour, purchasing patterns, sales performance and revenue insights using Excel
 
  **Introduction**
@@ -12,7 +12,8 @@ The major problem I am trying to solve with this analysis is understanding how c
 Businesses often need to understand why customers view products but do not purchase them, which customer groups generate the most revenue, and which product categories perform best.
 Through this analysis, I aim to identify purchasing patterns, evaluate customer engagement, compare revenue across countries and product categories, and provide insights that can help improve sales performance and conversion rates
 
-**Data preprocessing and cleaning**
+**Data preprocessing and cleaning** 
+
 Remove duplicates: Check for duplicate customer records to avoid double-counting.
 
 Handle missing values: Identify missing information and decide whether to fill or remove affected records.
@@ -39,6 +40,7 @@ Dashboard Interface → Where I visualized key metrics
 <img width="1310" height="540" alt="adeyeye p 4" src="https://github.com/user-attachments/assets/0fba3cd3-6405-461a-9ba0-b022ddb8998a" />
 
 **key insights**
+
 <img width="364" height="162" alt="4 1" src="https://github.com/user-attachments/assets/61d85b83-8fc7-44c6-8f2a-ca7d579fdedc" />
 
 **Gender performance**
