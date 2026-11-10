@@ -111,7 +111,7 @@ The platform generated a total revenue of $1,401,306 from 8,292 items purchased,
 
 my analysis also revealed an almost equal distribution of male and female customers, showing that the platform attracts customers across both gender groups.
 
-Overall, my findings show that customer behaviour, product categories and geographical location provide useful insights into the platform's sales performance. my analysis also highlights opportunities to improve purchasing activities and increase revenue.
+Overall, my findings show that customer behaviour, product categories and geographical location provide useful insights into the platform's sales performance.highlights opportunities to improve purchasing activities and increase revenue.
 
 
 
